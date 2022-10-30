@@ -2,8 +2,8 @@
 {
     public class Class
     {
-        public string Type { get; set; }
-        public string Type1 { get; set; }
-        public string Type2 { get; set; }
+        public int teen { get; set; }
+        public int teen1 { get; set; }
+        public int teen2 { get; set; }
     }
 }
